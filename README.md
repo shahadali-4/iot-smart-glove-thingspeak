@@ -97,3 +97,7 @@ Ring + Little → "I need toilet and water"
 This project is the exclusive property of Team (SWR). Any use, reproduction, or exploitation without prior written permission from the team is strictly prohibited and will result in appropriate legal action.
 
 University of Technology and Applied Sciences – Ibri
+
+Prototype:
+<img width="870" height="470" alt="image" src="https://github.com/user-attachments/assets/c8355694-69d1-4bd4-beef-e7a4816a3fbe" />
+
