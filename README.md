@@ -100,4 +100,5 @@ University of Technology and Applied Sciences – Ibri
 
 Prototype:
 <img width="870" height="470" alt="image" src="https://github.com/user-attachments/assets/c8355694-69d1-4bd4-beef-e7a4816a3fbe" />
+[project-Smart-Glove.docx](https://github.com/user-attachments/files/25314663/project-Smart-Glove.docx)
 
