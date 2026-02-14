@@ -94,5 +94,6 @@ Ring + Little → "I need toilet and water"
 - Develop mobile application
 
 ---
+This project is the exclusive property of Team (SWR). Any use, reproduction, or exploitation without prior written permission from the team is strictly prohibited and will result in appropriate legal action.
 
 University of Technology and Applied Sciences – Ibri
